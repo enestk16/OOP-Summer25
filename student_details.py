@@ -1,8 +1,6 @@
-name:studen_data
-set-student-data:
- first_name :nusura
- second_name :niyomukiza 
- index_number :35435
- nationality : rwandan
- starting_date : 01/10/2024
- courses : computer programing
+first_name= "enes talha"
+last_name = "kanar"
+index_number = "35375"
+nationality = "turkish"
+starting_date = "13/09/2024"
+courses = ["econ","math"]
