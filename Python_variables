@@ -1,1 +1,41 @@
+#Creating Variables
+#Python has no command for declaring a variable.
+
+#A variable is created the moment you first assign a value to it. 
+
+x = 5
+y = "Enes"
+print(x)
+print(y)
+
+#Casting
+#If you want to specify the data type of a variable
+x = str(3)   
+y = int(3)    
+z = float(3)
+
+#Get the Type
+#You can get with type() function
+x = 16
+y = "Enes"
+print(type(x))
+print(type(y))
+
+#Single or Double Quotes?
+#When you are creating a string you can use either single quotes or double quotes 
+x = "Enes"
+print(x)
+#double quotes are the same as single quotes:
+x = 'Enes'
+print(x)
+
+#Case-Sensitive
+#In python variable names are case sensitive that means NAME name and Name would all be considered different variables
+a = 16
+A = "Enes"
+
+print(a)
+print(A)
+
+
 
