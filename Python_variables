@@ -37,5 +37,39 @@ A = "Enes"
 print(a)
 print(A)
 
+#Variable Names
+#A variable can have a short name (like x and y) or a more descriptive name 
+myvar = "Enes"
+my_var = "Enes"
+_my_var = "Enes"
+myVar = "Enes"
+MYVAR = "Enes"
+myvar2 = "Enes"
+
+
+print(myvar)
+print(my_var)
+print(_my_var)
+print(myVar)
+print(MYVAR)
+print(myvar2)
+
+#Camel Case
+#Each word starts with a capital letter
+myVariableName = "Enes"
+#Pascal Case
+#Each word starts with a capital letter
+MyVariableName = "Enes"
+#Snake Case
+#Each word is separated by an underscore character
+my_variable_name = "Enes"
+
+
+
+
+
+
+
+
 
 
